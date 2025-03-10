@@ -2,7 +2,8 @@
   <h1 alig="center">Hello! 👋</h1>
   <h4 align="center">
     I'm <strong>Abdelkrim</strong>, 
-    a Full Stack Web Developer with a strong passion for technology and problem-solving. I love working with computers and building things that make a difference.
+    a Full Stack Web Developer with a strong passion for technology and problem-solving. I love working with computers and building things that make a difference.<br>
+    Ramdan mobarak ☪️
   </h4>
 </div>
 <div align="center">
@@ -45,9 +46,16 @@
 
 
 ## 📊 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelkrimElAyachi&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelkrimElAyachi&show_icons=true&theme=radical" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkrimElAyachi&layout=compact&theme=radical)
+
+## 👩‍💻 Most Used langauges
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkrimElAyachi&layout=compact&theme=radical" />
+</div>
+
 
 ---
 
