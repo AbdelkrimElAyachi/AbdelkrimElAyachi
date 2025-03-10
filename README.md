@@ -12,7 +12,7 @@
   </a>
 </div
 
-<br>
+
 ## 🔭 **Currently Working As**
 - **QA Automation**: I specialize in ensuring software quality through automated testing. My tools of choice include **Selenium** and **Cypress**.
 
