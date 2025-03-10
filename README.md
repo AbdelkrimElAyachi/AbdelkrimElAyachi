@@ -74,5 +74,5 @@ I occasionally write about my learning journey and experiences. Check out my blo
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate , Ramdan mobarak ☪️ .
+Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate ,Ramdan mobarak ☪️ .
 
