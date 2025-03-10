@@ -1,9 +1,9 @@
 <div align="center">
   <h1 alig="center">Hello! 👋</h1>
   <h4 align="center">
-    I'm <strong>Abdelkrim</strong>, 
+    I'm <strong>Abdelkrim</strong>, <br><br>
     a Full Stack Web Developer with a strong passion for technology and problem-solving. I love working with computers and building things that make a difference.<br>
-    Ramdan mobarak ☪️
+    
   </h4>
 </div>
 <div align="center">
@@ -72,5 +72,5 @@ I occasionally write about my learning journey and experiences. Check out my blo
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or just chat about tech. 😊
+Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate , Ramdan mobarak ☪️ .
 
