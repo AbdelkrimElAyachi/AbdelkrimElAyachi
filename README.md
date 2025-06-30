@@ -39,9 +39,9 @@
 ---
 
 ## 📫 **How to Reach Me**
-- **Email**: [Your Email Address]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **Twitter**: [Your Twitter Handle]  
+- **Email**: [elayachi2022karim@gmail.com]  
+- **LinkedIn**: [https://www.linkedin.com/in/abdelkrimdevelopper/]  
+- **Twitter**: [https://x.com/KarimCLover1]  
 - **Portfolio**: [Your Portfolio Website]  
 
 ---
