@@ -42,7 +42,7 @@
 - **Email**: [elayachi2022karim@gmail.com]  
 - **LinkedIn**: [https://www.linkedin.com/in/abdelkrimdevelopper/]  
 - **Twitter**: [https://x.com/KarimCLover1]  
-- **Portfolio**: [Your Portfolio Website]  
+- **Portfolio**: [Currently in developpement]  
 
 ---
 
