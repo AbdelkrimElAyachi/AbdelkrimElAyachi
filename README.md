@@ -2,7 +2,7 @@
   <h1 alig="center">Hello! 👋</h1>
   <h4 align="center">
     I'm <strong>Abdelkrim</strong>, <br><br>
-    a Full Stack Web Developer with a strong passion for technology and problem-solving. I love working with computers and building things that make a difference.<br>
+    a Full Stack Web Developer and QA Engineer with a strong passion for technology and problem-solving. I love working with computers and being a part of building things that make a difference.<br>
     
   </h4>
 </div>
