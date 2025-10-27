@@ -68,5 +68,5 @@ Here are some of the projects I’ve worked on:
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate ,Ramdan mobarak ☪️ .
+Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate.
 
