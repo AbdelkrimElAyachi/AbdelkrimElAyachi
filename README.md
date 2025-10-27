@@ -63,14 +63,8 @@
 
 ## 🚀 **Projects**
 Here are some of the projects I’ve worked on:
-- **[Project 1](https://github.com/AbdelkrimElAyachi/project1)**: A brief description of the project.
-- **[Project 2](https://github.com/AbdelkrimElAyachi/project2)**: Another brief description.
-
----
-
-## 📝 **Blog**
-I occasionally write about my learning journey and experiences. Check out my blog:  
-[Your Blog Link]
+- **[FingerWorkout](https://github.com/AbdelkrimElAyachi/fingerWorkout)**: An interactive website to test your typing skill and compete with others.
+- **[YT Downloader](https://github.com/AbdelkrimElAyachi/YT-Downloader)**: A gui/cli tool to download videos/audios from youtube with the highest quality possible.
 
 ---
 
