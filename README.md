@@ -19,7 +19,7 @@
 ---
 
 ## 🌱 **Currently Learning**
-- **Java & C#**: Expanding my programming skills with Java for backend development.
+- **Java & C#**: Expanding my programming skills with Java and C# for backend development.
 - **Cypress & Playwright**: Mastering end-to-end testing frameworks for robust automation.
 - **Continuous Integration/Continuous Deployment (CI/CD)**: Exploring tools like GitHub Actions and Jenkins
 - **Vue**: learning it for my type website project
