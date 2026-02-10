@@ -15,12 +15,12 @@
 ---
 
 ## 🔭 **Currently Working As**
-- **QA Automation**: I specialize in ensuring software quality through automated testing. My tools of choice include **Selenium** and **Cypress**.
+- **QA Automation**: I specialize in ensuring software quality through automated testing. My tools of choice include **Selenium** and **Playwright**.
 ---
 
 ## 🌱 **Currently Learning**
 - **Java & C#**: Expanding my programming skills with Java and C# for backend development.
-- **Cypress & Playwright**: Mastering end-to-end testing frameworks for robust automation.
+- **Selenium & Playwright**: Mastering end-to-end testing frameworks for robust automation.
 - **Continuous Integration/Continuous Deployment (CI/CD)**: Exploring tools like GitHub Actions and Jenkins
 - **Vue**: learning it for my type website project
 - **Algorithms**: advancing my problem solving skills by working on medium, hard leet code questions daily
