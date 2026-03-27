@@ -15,29 +15,9 @@
 ---
 
 ## 🔭 **Currently Working As**
-- **QA Automation**: I specialize in ensuring software quality through automated testing. My tools of choice include **Selenium** and **Playwright**.
----
-
-## 🌱 **Currently Learning**
-- **Java & C#**: Expanding my programming skills with Java and C# for backend development.
-- **Selenium & Playwright**: Mastering end-to-end testing frameworks for robust automation.
-- **Continuous Integration/Continuous Deployment (CI/CD)**: Exploring tools like GitHub Actions and Jenkins
-- **Vue**: learning it for my type website project
-- **Algorithms**: advancing my problem solving skills by working on medium, hard leet code questions daily
----
-
-## 🛠️ **Skills**
-### Programming Languages
-- JavaScript, C#, Java, Php, HTML/CSS
-
-### Frameworks & Tools
-- **Frontend**: React, Vue.js
-- **Backend**: Laravel, .Net
-- **Testing**: Cypress, Playwright, Selenium
-- **Version Control**: Git, GitHub
+- **Functional / Automated tester**: I specialize in ensuring software quality through manual and automated testing. My tools of choice include **Selenium** and **Playwright**.
 
 ---
-
 ## 📫 **How to Reach Me**
 - **Email**: [elayachi2022karim@gmail.com]  
 - **LinkedIn**: [https://www.linkedin.com/in/abdelkrimdevelopper/]  
@@ -45,8 +25,6 @@
 - **Portfolio**: [Currently in developpement]  
 
 ---
-
-
 ## 📊 **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdelkrimElAyachi&show_icons=true&theme=radical" />
@@ -60,13 +38,8 @@
 
 
 ---
-
 ## 🚀 **Projects**
-Here are some of the projects I’ve worked on:
-- **[FingerWorkout](https://github.com/AbdelkrimElAyachi/fingerWorkout)**: An interactive website to test your typing skill and compete with others.
+Here are some my personal projects I’ve worked on:
+- **[FingerWorkout](https://github.com/AbdelkrimElAyachi/FingerWorkout)**: An interactive website to test your typing skill and compete with others.
 - **[YT Downloader](https://github.com/AbdelkrimElAyachi/YT-Downloader)**: A gui/cli tool to download videos/audios from youtube with the highest quality possible.
-
----
-
-Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate.
 
